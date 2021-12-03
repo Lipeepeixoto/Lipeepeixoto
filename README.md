@@ -1,5 +1,5 @@
 <h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Felipe Reis</h1>
-<h2 align="left">You can call me too Pinho!</h2>
+<h2 align="left">You can call me too Pinho or LP! 😁</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lipeepeixoto&color=blue" alt="Profile views" /> </p>
 
 ## About Me | Simple
