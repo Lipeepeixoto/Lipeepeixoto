@@ -12,7 +12,7 @@
 
 - ❤️ I really enjoy UI design too!
 
-- 😁 If you want to meet me on other networks, just go here! [ https://dsc.bio/felipereistx ]
+- 😁 If you want to meet me on other networks, just go [here](https://dsc.bio/felipereistx)! (external link to https://discords.com)
 
 <br>
 
